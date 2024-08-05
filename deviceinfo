@@ -13,7 +13,7 @@ deviceinfo_ubuntu_touch_release="focal"
 
 deviceinfo_kernel_source="https://github.com/Lkewq/S20FE.git"
 deviceinfo_kernel_source_branch="main"
-deviceinfo_kernel_defconfig="halium_defconfig"
+deviceinfo_kernel_defconfig="halium2_defconfig"
 deviceinfo_kernel_image_name="Image"
 
 ##########
